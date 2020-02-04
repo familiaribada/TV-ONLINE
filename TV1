@@ -38,22 +38,22 @@ http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
 
 
 
-#EXTINF:0,AMARIN TV-34
+#EXTINF:-1 group-title="ฟรี TV"tvg-logo="https://teevee-hd.com/img/amarinfhd.png",AMARIN TV-34
 http://27.254.130.64/feed/chamarin/playlist.m3u8
 
-#EXTINF:0,SA-BAY-DEE TV
+#EXTINF:-1 group-title="ฟรี TV"tvg-logo="https://teevee-hd.com/img/sabuydeetv.png",SA-BAY-DEE TV
 http://stream.rs.co.th/sbd-hi/index.m3u8
 
-#EXTINF:0,MONO 29
+#EXTINF:-1 group-title="ฟรี TV"tvg-logo="https://teevee-hd.com/img/mono29.png",MONO 29
 http://183.182.100.184/live/mono29/playlist.m3u8
 
-#EXTINF:0,MONO Plus
+#EXTINF:-1 group-title="ฟรี TV"tvg-logo="https://teevee-hd.com/img/monoplus.png",MONO Plus
 http://96.30.124.101:1935/psilive3a/Mono_plus.stream_360p/chunklist.m3u8
 
-#EXTINF:0,MONO Plus-2
+#EXTINF:-1 group-title="ฟรี TV"tvg-logo="https://teevee-hd.com/img/monoplus.png",MONO Plus2
 https://edge4-bkk.3bb.co.th:9443/MonoPlus_LiveHLS/monoplusLive_HLS360p.stream/chunklist.m3u8
 
-#EXTINF:0,PPTV 36-HD
+#EXTINF:-1 group-title="ฟรี TV"tvg-logo="https://teevee-hd.com/img/pptvfhd.png",PPTV 36-HD
 http://27.254.130.64/feed/chpptvhd/playlist.m3u8
 
 #EXTINF:0,THAI PBS
