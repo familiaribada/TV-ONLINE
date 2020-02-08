@@ -34,10 +34,6 @@ http://122.155.205.9/live/workpoint.stream/playlist_720p.m3u8
 #EXTINF:-1 group-title="ฟรี TV"tvg-logo="https://teevee-hd.com/img/thairathfhd.png",Thairath TV
 http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
 
-
-
-
-
 #EXTINF:-1 group-title="ฟรี TV"tvg-logo="https://teevee-hd.com/img/amarinfhd.png",AMARIN TV-34
 http://27.254.130.64/feed/chamarin/playlist.m3u8
 
@@ -56,14 +52,17 @@ https://edge4-bkk.3bb.co.th:9443/MonoPlus_LiveHLS/monoplusLive_HLS360p.stream/ch
 #EXTINF:-1 group-title="ฟรี TV"tvg-logo="https://teevee-hd.com/img/pptvfhd.png",PPTV 36-HD
 http://27.254.130.64/feed/chpptvhd/playlist.m3u8
 
-#EXTINF:0,THAI PBS
+#EXTINF:-1 group-title="ฟรี TV"tvg-logo="https://teevee-hd.com/img/thaipbs.png",THAI PBS
 http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
 
-#EXTINF:0,Nation TV
+#EXTINF:-1 group-title="ฟรี TV"tvg-logo="https://teevee-hd.com/img/nation.png",Nation TV 
 http://live.nationtv.tv/hls/ntv_th_hq.m3u8
 
-#EXTINF:0,NEW TV
+#EXTINF:-1 group-title="ฟรี TV"tvg-logo="https://teevee-hd.com/img/newtv.png",NEW TV
 http://newtv.cdn.byteark.com/live/playlist_576p/index.m3u8
+
+
+
 
 #EXTINF:0,True4U
 http://183.182.100.184/live/true4u/chunklist.m3u8
