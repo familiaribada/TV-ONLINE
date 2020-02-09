@@ -20,7 +20,7 @@ http://27.254.130.64/feed/ch7hd/playlist.m3u8
 http://stream.rs.co.th/ch8-hi/index.m3u8
 
 #EXTINF:-1 group-title="ฟรี TV"tvg-logo="https://teevee-hd.com/img/mcot-hd.png",MCOT-HD
-https://stream-03.sg1.dailymotion.com/sec(86G48EQSWKUUFPhHXEV5xhky3WqZdIf8kE-YtilOaXE)/dm/3/x74wlgj/s/live-2.m3u8
+http://27.254.130.64/feed/chmcothd/playlist.m3u8
 
 #EXTINF:-1 group-title="ฟรี TV"tvg-logo="https://teevee-hd.com/img/nbt.png",CH11 NBT
 http://27.254.130.64/live01/ch14.m3u8?p=m3u8
