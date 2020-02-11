@@ -82,7 +82,7 @@ http://103.208.24.234:1935/thaisport/hd-tsport2.stream/chunklist.m3u8
 #EXTINF:-1 group-title="กีฬา TV"tvg-logo="https://teevee-hd.com/img/tsphd3.png",True sport HD3
 http://103.208.24.234:1935/thaisport/hd-tsport3.stream/chunklist.m3u8
 
-#EXTINF:-1 group-title="กีฬา TV"tvg-logo="https://resources.premierleague.com/premierleague/photo/2018/12/14/9471c442-77fd-4983-9c45-b4a2b93be44a/PL-Lion.png",Premier League
+#EXTINF:-1 group-title="กีฬา TV"tvg-logo="https://raw.githubusercontent.com/kuroshibin/IMG-TH/master/Sports/Premier%20League.png",Premier League
 http://95.170.215.106/hls/m3u8/Bein-Sport-HD11.m3u8
 
 #EXTINF:-1 group-title="ฟรี TV"tvg-logo="https://teevee-hd.com/img/ch3-hd.png",3 HD
