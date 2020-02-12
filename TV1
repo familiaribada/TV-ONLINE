@@ -37,6 +37,9 @@ http://27.254.130.64/feed/chamarin/playlist.m3u8
 #EXTINF:-1 group-title="ฟรี TV"tvg-logo="https://teevee-hd.com/img/sabuydeetv.png",SA-BAY-DEE TV
 http://stream.rs.co.th/sbd-hi/index.m3u8
 
+#EXTINF:-1 group-title="การ์ตูน"tvg-logo="https://raw.githubusercontent.com/kuroshibin/IMG-TV/master/Cartoon/cartoonclub.png",CARTOON CLUB
+http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/chunklist.m3u8
+
 #EXTINF:-1 group-title="ฟรี TV"tvg-logo="https://teevee-hd.com/img/mono29.png",MONO 29
 http://183.182.100.184/live/mono29/playlist.m3u8
 
