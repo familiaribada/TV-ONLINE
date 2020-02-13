@@ -52,6 +52,12 @@ http://96.30.124.101:1935/psilive3a/Mono_plus.stream_360p/chunklist.m3u8
 #EXTINF:-1 group-title="ฟรี TV"tvg-logo="https://teevee-hd.com/img/monoplus.png",MONO Plus2
 https://edge4-bkk.3bb.co.th:9443/MonoPlus_LiveHLS/monoplusLive_HLS360p.stream/chunklist.m3u8
 
+#EXTINF:-1 group-title="ฟรี TV"tvg-logo="https://teevee-hd.com/img/monoplus.png",MONO Plus720p
+https://edge4-bkk.3bb.co.th:9443/MonoPlus_LiveHLS/monoplusLive_HLS720p.stream/chunklist.m3u8?=m3u8
+
+#EXTINF:-1 group-title="ฟรี TV"tvg-logo="https://teevee-hd.com/img/monoplus.png",MONO Plus1080p
+https://edge4-bkk.3bb.co.th:9443/MonoPlus_LiveHLS/monoplusLive_HLS1080p.stream/chunklist.m3u8?=m3u8
+
 #EXTINF:-1 group-title="หนัง TV"tvg-logo="https://raw.githubusercontent.com/kuroshibin/IMG-TV/master/Movies/mchannel.png",M Channel
 http://203.151.83.104:1935/tdlive/tdlivest/chunklist_1024p.m3u8?=m3u8
 
