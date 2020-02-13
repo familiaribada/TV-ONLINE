@@ -56,7 +56,7 @@ https://edge4-bkk.3bb.co.th:9443/MonoPlus_LiveHLS/monoplusLive_HLS360p.stream/ch
 http://203.151.83.104:1935/tdlive/tdlivest/chunklist_720p.m3u8
 
 #EXTINF:-1 group-title="หนัง TV"tvg-logo="https://raw.githubusercontent.com/kuroshibin/IMG-TV/master/Movies/foxthai.png",FOX Thai TH
-http://www.livedoomovie.com/02_FoxThai_TH_720p/chunklist.m3u8?=m3u8
+https://www.livedoomovie.com/02_FoxThai_TH_720p/chunklist.m3u8?=m3u8
 
 #EXTINF:-1 group-title="ฟรี TV"tvg-logo="https://teevee-hd.com/img/pptvfhd.png",PPTV 36-HD
 http://27.254.130.64/feed/chpptvhd/playlist.m3u8
