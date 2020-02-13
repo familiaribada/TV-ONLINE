@@ -53,10 +53,7 @@ http://96.30.124.101:1935/psilive3a/Mono_plus.stream_360p/chunklist.m3u8
 https://edge4-bkk.3bb.co.th:9443/MonoPlus_LiveHLS/monoplusLive_HLS360p.stream/chunklist.m3u8
 
 #EXTINF:-1 group-title="หนัง TV"tvg-logo="https://raw.githubusercontent.com/kuroshibin/IMG-TV/master/Movies/mchannel.png",M Channel
-http://203.151.83.104:1935/tdlive/tdlivest/chunklist_720p.m3u8
-
-#EXTINF:-1 group-title="หนัง TV"tvg-logo="https://raw.githubusercontent.com/kuroshibin/IMG-TV/master/Movies/mchannel.png",M Channel HD
-http://203.151.83.104:1935/tdlive/tdlivest/chunklist.m3u8
+http://203.151.83.104:1935/tdlive/tdlivest/chunklist_1024p.m3u8?=m3u8
 
 #EXTINF:-1 group-title="หนัง TV"tvg-logo="https://raw.githubusercontent.com/kuroshibin/IMG-TV/master/Movies/foxthai.png",FOX Thai TH
 http://27.254.149.109:8081/tumlive/fox/playlist.m3u8?=m3u8
