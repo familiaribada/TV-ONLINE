@@ -1,7 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="ฟรี TV"tvg-logo="https://teevee-hd.com/img/ch2.png",CH2 STARMAX
+#EXTINF:-1 group-title="หนัง TV"tvg-logo="https://teevee-hd.com/img/ch2.png",CH2 STARMAX
 http://stream.rs.co.th/ch2-hi/index.m3u8
 
 #EXTINF:-1 group-title="ฟรี TV"tvg-logo="https://teevee-hd.com/img/ch3fhd.png",CH3 HD
@@ -37,25 +37,25 @@ http://stream.rs.co.th/sbd-hi/index.m3u8
 #EXTINF:-1 group-title="การ์ตูน"tvg-logo="https://raw.githubusercontent.com/kuroshibin/IMG-TV/master/Cartoon/cartoonclub.png",CARTOON CLUB
 http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/chunklist.m3u8
 
-#EXTINF:-1 group-title="ฟรี TV"tvg-logo="https://teevee-hd.com/img/mono29.png",MONO 29
+#EXTINF:-1 group-title="หนัง TV"tvg-logo="https://teevee-hd.com/img/mono29.png",MONO 29
 http://183.182.100.184/live/mono29/playlist.m3u8
 
-#EXTINF:-1 group-title="ฟรี TV"tvg-logo="https://teevee-hd.com/img/mono29.png",MONO 29-2
+#EXTINF:-1 group-title="หนัง TV"tvg-logo="https://teevee-hd.com/img/mono29.png",MONO 29-2
 http://183.182.100.184/live/mono29/chunklist_720p.m3u8?=m3u8
 
-#EXTINF:-1 group-title="ฟรี TV"tvg-logo="https://teevee-hd.com/img/mono29.png",MONO29 720p
+#EXTINF:-1 group-title="หนัง TV"tvg-logo="https://teevee-hd.com/img/mono29.png",MONO29 720p
 https://59ffdfa4495c3.streamlock.net/MONO29_HLS_720P/mono29hls_720TH.stream/chunklist.m3u8?=m3u8
 
-#EXTINF:-1 group-title="ฟรี TV"tvg-logo="https://teevee-hd.com/img/monoplus.png",MONO Plus
+#EXTINF:-1 group-title="หนัง TV"tvg-logo="https://teevee-hd.com/img/monoplus.png",MONO Plus
 http://96.30.124.101:1935/psilive3a/Mono_plus.stream_360p/chunklist.m3u8
 
-#EXTINF:-1 group-title="ฟรี TV"tvg-logo="https://teevee-hd.com/img/monoplus.png",MONO Plus2
+#EXTINF:-1 group-title="หนัง TV"tvg-logo="https://teevee-hd.com/img/monoplus.png",MONO Plus2
 https://edge4-bkk.3bb.co.th:9443/MonoPlus_LiveHLS/monoplusLive_HLS360p.stream/chunklist.m3u8
 
-#EXTINF:-1 group-title="ฟรี TV"tvg-logo="https://teevee-hd.com/img/monoplus.png",MONO Plus720p
+#EXTINF:-1 group-title="หนัง TV"tvg-logo="https://teevee-hd.com/img/monoplus.png",MONO Plus720p
 https://edge4-bkk.3bb.co.th:9443/MonoPlus_LiveHLS/monoplusLive_HLS720p.stream/chunklist.m3u8?=m3u8
 
-#EXTINF:-1 group-title="ฟรี TV"tvg-logo="https://teevee-hd.com/img/monoplus.png",MONO Plus1080p
+#EXTINF:-1 group-title="หนัง TV"tvg-logo="https://teevee-hd.com/img/monoplus.png",MONO Plus1080p
 https://edge4-bkk.3bb.co.th:9443/MonoPlus_LiveHLS/monoplusLive_HLS1080p.stream/chunklist.m3u8?=m3u8
 
 #EXTINF:-1 group-title="หนัง TV"tvg-logo="https://raw.githubusercontent.com/kuroshibin/IMG-TV/master/Movies/mchannel.png",M Channel
