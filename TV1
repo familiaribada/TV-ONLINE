@@ -40,6 +40,27 @@ http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
 #EXTINF:-1 group-title="ฟรี TV"tvg-logo="https://teevee-hd.com/img/amarinfhd.png",AMARIN TV-34
 http://27.254.130.64/feed/chamarin/playlist.m3u8
 
+#EXTINF:-1 group-title="ฟรี TV"tvg-logo="https://teevee-hd.com/img/pptvfhd.png",PPTV 36-HD
+http://27.254.130.64/feed/chpptvhd/playlist.m3u8
+
+#EXTINF:-1 group-title="ฟรี TV"tvg-logo="https://teevee-hd.com/img/thaipbs.png",THAI PBS
+http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8?=m3u8
+
+#EXTINF:-1 group-title="ฟรี TV"tvg-logo="https://teevee-hd.com/img/thaipbs.png",THAI PBS-2
+http://27.254.130.64/live01/ch14.m3u8?p=m3u8
+
+#EXTINF:-1 group-title="ฟรี TV"tvg-logo="https://teevee-hd.com/img/nation.png",Nation TV 
+http://live.nationtv.tv/hls/ntv_th_hq.m3u8
+
+#EXTINF:-1 group-title="ฟรี TV"tvg-logo="https://teevee-hd.com/img/newtv.png",NEW TV
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/newstv.smil/chunklist_720p.m3u8
+
+#EXTINF:-1 group-title="ฟรี TV"tvg-logo="https://teevee-hd.com/img/true4u.png",True4U
+http://183.182.100.184/live/true4u/chunklist.m3u8
+
+#EXTINF:-1 group-title="ฟรี TV"tvg-logo="https://teevee-hd.com/img/onehd.png",ONE 31
+http://183.182.100.184/live/onehd/chunklist.m3u8
+
 #EXTINF:-1 group-title="ฟรี TV"tvg-logo="https://teevee-hd.com/img/sabuydeetv.png",SA-BAY-DEE TV
 http://stream.rs.co.th/sbd-hi/index.m3u8
 
@@ -82,29 +103,11 @@ http://27.254.149.109:8081/tumlive/fox/playlist.m3u8?=m3u8
 #EXTINF:-1 group-title="หนัง TV"tvg-logo="https://raw.githubusercontent.com/kuroshibin/IMG-TV/master/Movies/foxthai.png",FOX Thai 720p
 https://www.doofree88.com/streaming/sd-fox_720/index.m3u8?=m3u8
 
-#EXTINF:-1 group-title="ฟรี TV"tvg-logo="https://teevee-hd.com/img/pptvfhd.png",PPTV 36-HD
-http://27.254.130.64/feed/chpptvhd/playlist.m3u8
-
-#EXTINF:-1 group-title="ฟรี TV"tvg-logo="https://teevee-hd.com/img/thaipbs.png",THAI PBS
-http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8?=m3u8
-
-#EXTINF:-1 group-title="ฟรี TV"tvg-logo="https://teevee-hd.com/img/thaipbs.png",THAI PBS-2
-http://27.254.130.64/live01/ch14.m3u8?p=m3u8
-
-#EXTINF:-1 group-title="ฟรี TV"tvg-logo="https://teevee-hd.com/img/nation.png",Nation TV 
-http://live.nationtv.tv/hls/ntv_th_hq.m3u8
-
-#EXTINF:-1 group-title="ฟรี TV"tvg-logo="https://teevee-hd.com/img/newtv.png",NEW TV
-http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/newstv.smil/chunklist_720p.m3u8
-
-#EXTINF:-1 group-title="ฟรี TV"tvg-logo="https://teevee-hd.com/img/true4u.png",True4U
-http://183.182.100.184/live/true4u/chunklist.m3u8
-
-#EXTINF:-1 group-title="ฟรี TV"tvg-logo="https://teevee-hd.com/img/onehd.png",ONE 31
-http://183.182.100.184/live/onehd/chunklist.m3u8
-
 #EXTINF:-1 group-title="หนัง TV"tvg-logo="https://teevee-hd.com/img/ctbtv.png",CTB TV
 http://vip.login.in.th:1935/CTB/CTB/chunklist.m3u8
+
+#EXTINF:-1 group-title="สารคดี TV"tvg-logo="https://raw.githubusercontent.com/kuroshibin/IMG-TV/master/Documentary/truelife.png",Explore Life
+https://www.doofree88.com/streaming/sd-explife_480/index.m3u8?=m3u8
 
 #EXTINF:-1 group-title="สารคดี TV"tvg-logo="https://teevee-hd.com/img/natwild.png",Natgeo Wild
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8?IWAK-PEYEK.m3u8
