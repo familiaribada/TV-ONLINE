@@ -1,9 +1,5 @@
 #EXTM3U
 
-
-#EXTINF:-1 group-title="หนัง TV"tvg-logo="https://teevee-hd.com/img/ch2.png",CH2 STARMAX
-http://stream.rs.co.th/ch2-mid/index.m3u8
-
 #EXTINF:-1 group-title="หนัง TV"tvg-logo="https://teevee-hd.com/img/ch2.png",CH2 STARMAX_480p
 https://www.doofree88.com/streaming/sd-ch2_480/index.m3u8?=m3u8
 
@@ -33,6 +29,9 @@ http://122.155.92.8:1935/live/ch1_L.sdp/chunklist.m3u8
 
 #EXTINF:-1 group-title="ฟรี TV"tvg-logo="https://teevee-hd.com/img/workpoint.png",Workpoint
 http://122.155.205.9/live/workpoint.stream/playlist_720p.m3u8
+
+#EXTINF:-1 group-title="ฟรี TV"tvg-logo="https://teevee-hd.com/img/workpoint.png",Workpoint 480p
+https://www.doofree88.com/streaming/hd-workpoint_480/index.m3u8?=m3u8
 
 #EXTINF:-1 group-title="ฟรี TV"tvg-logo="https://teevee-hd.com/img/thairathfhd.png",Thairath TV
 http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
@@ -66,6 +65,9 @@ http://stream.rs.co.th/sbd-hi/index.m3u8
 
 #EXTINF:-1 group-title="การ์ตูน"tvg-logo="https://raw.githubusercontent.com/kuroshibin/IMG-TV/master/Cartoon/cartoonclub.png",CARTOON CLUB
 http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="หนัง TV"tvg-logo="https://teevee-hd.com/img/ch2.png",CH2 STARMAX
+http://stream.rs.co.th/ch2-mid/index.m3u8
 
 #EXTINF:-1 group-title="หนัง TV"tvg-logo="https://teevee-hd.com/img/mono29.png",MONO 29
 http://183.182.100.184/live/mono29/playlist.m3u8
