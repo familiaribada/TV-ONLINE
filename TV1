@@ -59,6 +59,9 @@ http://183.182.100.184/live/true4u/chunklist.m3u8
 #EXTINF:-1 group-title="ฟรี TV"tvg-logo="https://teevee-hd.com/img/onehd.png",ONE 31
 http://183.182.100.184/live/onehd/chunklist.m3u8
 
+#EXTINF:-1 group-title="ฟรี TV"tvg-logo="https://raw.githubusercontent.com/kuroshibin/IMG-TV/master/FreeTV/gmm.png",GMM Channel
+https://www.doofree88.com/streaming/sd-gmmchannel_480/index.m3u8?=m3u8
+
 #EXTINF:-1 group-title="ฟรี TV"tvg-logo="https://teevee-hd.com/img/sabuydeetv.png",SA-BAY-DEE TV
 http://stream.rs.co.th/sbd-hi/index.m3u8
 
