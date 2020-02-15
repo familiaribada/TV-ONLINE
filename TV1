@@ -70,6 +70,9 @@ https://edge4-bkk.3bb.co.th:9443/MonoPlus_LiveHLS/monoplusLive_HLS1080p.stream/c
 #EXTINF:-1 group-title="หนัง TV"tvg-logo="https://raw.githubusercontent.com/kuroshibin/IMG-TV/master/Movies/mchannel.png",M Channel
 http://203.151.83.104:1935/tdlive/tdlivest/chunklist_1024p.m3u8?=m3u8
 
+#EXTINF:-1 group-title="หนัง TV"tvg-logo="https://raw.githubusercontent.com/kuroshibin/IMG-TV/master/Movies/mchannel.png",M Channel 480p
+https://www.doofree88.com/streaming/sd-mchannel_480/index.m3u8?=m3u8
+
 #EXTINF:-1 group-title="หนัง TV"tvg-logo="https://raw.githubusercontent.com/kuroshibin/IMG-TV/master/Movies/Mix%20Major.png",Mix Major
 https://www.doofree88.com/streaming/sd-mixmajor_480/index.m3u8?=m3u8
 
