@@ -65,9 +65,6 @@ https://www.doofree88.com/streaming/sd-gmmchannel_480/index.m3u8?=m3u8
 #EXTINF:-1 group-title="ฟรี TV"tvg-logo="https://teevee-hd.com/img/sabuydeetv.png",SA-BAY-DEE TV
 http://stream.rs.co.th/sbd-hi/index.m3u8
 
-#EXTINF:-1 group-title="การ์ตูน"tvg-logo="https://raw.githubusercontent.com/kuroshibin/IMG-TV/master/Cartoon/cartoonclub.png",CARTOON CLUB
-http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/chunklist.m3u8
-
 #EXTINF:-1 group-title="หนัง TV"tvg-logo="https://teevee-hd.com/img/ch2.png",CH2 STARMAX
 http://stream.rs.co.th/ch2-mid/index.m3u8
 
@@ -112,6 +109,13 @@ https://www.doofree88.com/streaming/sd-fox_720/index.m3u8?=m3u8
 
 #EXTINF:-1 group-title="หนัง TV"tvg-logo="https://teevee-hd.com/img/ctbtv.png",CTB TV
 http://vip.login.in.th:1935/CTB/CTB/chunklist.m3u8
+
+#EXTINF:-1 group-title="การ์ตูน"tvg-logo="https://raw.githubusercontent.com/kuroshibin/IMG-TV/master/Cartoon/cartoonclub.png",CARTOON CLUB
+http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="การ์ตูน"tvg-logo="https://raw.githubusercontent.com/kuroshibin/IMG-TV/master/Cartoon/disney.png",Disney Channel
+https://www.doofree88.com/streaming/sd-disney_480/index.m3u8?=m3u8
+
 
 #EXTINF:-1 group-title="สารคดี TV"tvg-logo="https://raw.githubusercontent.com/kuroshibin/IMG-TV/master/Documentary/truelife.png",Explore Life
 https://www.doofree88.com/streaming/sd-explife_480/index.m3u8?=m3u8
