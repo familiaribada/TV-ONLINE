@@ -18,7 +18,7 @@ http://27.254.130.64/feed/ch7hd/playlist.m3u8
 http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/ch8.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="ฟรี TV"tvg-logo="https://teevee-hd.com/img/ch8.png",CH8 720p
-http://stream.rs.co.th/ch8-mid/index.m3u8
+http://stream.rs.co.th/ch8-hi/index.m3u8
 
 #EXTINF:-1 group-title="ฟรี TV"tvg-logo="https://teevee-hd.com/img/mcot-hd.png",MCOT-HD
 http://27.254.130.64/feed/chmcothd/playlist.m3u8
