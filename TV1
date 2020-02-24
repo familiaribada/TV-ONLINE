@@ -110,6 +110,9 @@ https://www.doofree88.com/streaming/sd-fox_720/index.m3u8?=m3u8
 #EXTINF:-1 group-title="หนัง TV"tvg-logo="https://teevee-hd.com/img/ctbtv.png",CTB TV
 http://vip.login.in.th:1935/CTB/CTB/chunklist.m3u8
 
+#EXTINF:-1 group-title="หนัง TV"tvg-logo="https://raw.githubusercontent.com/kuroshibin/IMG-TV/master/Movies/ZEE%20%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87.png",ZEE NANG
+https://www.doofree88.com/streaming/sd-znung_480/index.m3u8?=m3u8
+
 #EXTINF:-1 group-title="การ์ตูน"tvg-logo="https://raw.githubusercontent.com/kuroshibin/IMG-TV/master/Cartoon/cartoonclub.png",CARTOON CLUB
 http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/chunklist.m3u8
 
