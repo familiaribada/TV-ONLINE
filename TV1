@@ -1462,11 +1462,3 @@ http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/playlist.m3u8
 http://210.86.230.202:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
 
 
-#EXTINF:-1 group-title="XXX"tvg-logo="https://raw.githubusercontent.com/kuroshibin/IMG-TV/master/Movies/xnxx.png",NYX Media 1
-https://cdn1.ibizastream.biz:441/free/1/playlist.m3u8?=m3u8
-
-#EXTINF:-1 group-title="XXX"tvg-logo="https://raw.githubusercontent.com/kuroshibin/IMG-TV/master/Movies/xnxx.png",NYX Media 2
-https://5a2a51fc4cfde.streamlock.net/free/_definst_/Stream2/chunklist.m3u8?=m3u8
-
-#EXTINF:-1 group-title="XXX"tvg-logo="https://raw.githubusercontent.com/kuroshibin/IMG-TV/master/Movies/xnxx.png",NYX Media 3
-https://cdn1.ibizastream.biz:441/free/2/playlist.m3u8?=m3u8
